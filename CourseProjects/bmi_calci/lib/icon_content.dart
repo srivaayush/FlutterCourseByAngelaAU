@@ -1,8 +1,5 @@
 import 'package:bmi_calci/constants.dart';
 import 'package:flutter/material.dart';
-
-  
-
 class IconContents extends StatelessWidget {
   IconContents({@required this.icon, @required this.label});
   final IconData icon;
