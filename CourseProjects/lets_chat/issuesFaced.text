@@ -1,0 +1,18 @@
+1. onPress:onPress
+
+
+With null safety:
+
+Instead of
+
+final Function? onPressed;
+use
+
+final VoidCallback? onPressed;
+or
+
+final Function()? onPressed;
+
+
+
+2.
